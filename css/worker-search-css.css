@@ -1,0 +1,25 @@
+/* overridden class of card*/
+.card{
+    background-color: #323232;
+    border: 0px;
+    color: white;
+}
+/*custom text in card*/
+.cust-text{
+    text-decoration: underline;
+}
+/* cust card button*/
+.cust-card-btn{
+    border: 3px solid black;
+    background-color: #14ffec;
+    color: black;
+}
+.cust-card-btn:hover{
+     border: 3px solid black;
+    background-color: white;
+    color: black;
+}
+
+body{
+     background-color:#212121;
+}

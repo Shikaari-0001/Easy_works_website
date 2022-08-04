@@ -1,0 +1,82 @@
+/* for pic in card*/
+.card-pic{
+     width:200px ;
+    height:225px; 
+    min-width: 66px;
+    min-height: 75px;
+    
+}
+
+.card{
+    background-color:#212121;
+    border-color:#212121;
+    color: white;
+}
+
+.modal{
+    background-color:#212121; 
+}
+
+/*overidden class for title of modal*/
+.modal-title{
+    color:#14ffec;
+}
+
+/*for label on input box*/
+.modal-input-lable{
+   font-size: 21px;
+   font-weight: 400;
+}
+/* for modal input only text box*/
+.modal-input{
+    background-color: #323232;
+    color: white;
+}
+
+/* for modal input only text box on focus*/
+.modal-input:focus{
+    color: black;
+}
+/* for modal acc*/
+.cust-modal{
+    background-color:#212121;
+    color: white;
+}
+
+/* button in modal*/
+.cust-btn{
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    border: 2px solid #c5c6c7;
+}
+.cust-btn:hover{
+   background-color:#c5c6c7; 
+}
+/* custom btn in card*/
+.cust-btn-card{
+    color: white;
+    background-color:#212121; 
+    font-weight: 500;
+    border: 3px solid white; 
+}
+
+.cust-btn-card:hover{
+    color: black;
+    font-weight: 500;
+    background-color: white;
+    border: 3px solid white;
+}
+
+/* for hiiden field*/
+.hidden-field{
+    display: none;
+}
+/* to show hidden fields*/
+.hidden-field-show{
+    
+}
+
+body{
+   background-color:#212121; 
+}

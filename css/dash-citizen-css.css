@@ -1,0 +1,142 @@
+.card-pic{
+     width:200px ;
+    height:225px; 
+    min-width: 66px;
+    min-height: 75px;
+    
+}
+
+.card{
+    background-color:#212121;
+    border-color:#212121;
+    color: white;
+}
+
+.modal{
+    background-color:#212121; 
+}
+/*overidden class for title of modal*/
+.modal-title{
+    color:#14ffec;
+}
+/*for label on input box*/
+.modal-input-lable{
+   font-size: 21px;
+   font-weight: 400;
+}
+
+/* for modal input only text box*/
+.modal-input{
+    background-color: #323232;
+    color: white;
+}
+/* for modal input only text box on focus*/
+.modal-input:focus{
+    color: black;
+}
+/* for select in modal */
+.modal-select{
+    background-color:#323232;
+    color: white;
+}
+.modal-select:focus{
+    background-color: white;
+    color: black;
+}
+/* on options of select*/
+.modal-select-options{
+    background-color: white;
+}
+
+.modal-select-lable{
+    background-color:#212121;
+    color: white;
+}
+/*to make model hr line go away*/
+.erase-line{
+    border-bottom-color: blue;
+}
+/*modal cross button*/
+.modal-cross{
+    color: white;
+}
+
+/* button in modal*/
+.cust-btn{
+    background-color: #14ffec;
+    color: black;
+    font-weight: 500;
+}
+.cust-btn:hover{
+   background-color:#0d7377; 
+}
+.cust-modal{
+    background-color:#212121;
+    color: white;
+}
+/* for req maneger modal*/
+/*for table in req maneger*/
+.req-manger{
+    color: white;
+}
+/* cell in table*/
+.modal-table-cell{
+    padding: 20px;
+    border: 1px solid #c5c6c7;
+}
+/* heading in modal req manger*/
+.modal-table-heading{
+    padding: 10px;
+    border: 2px solid #0d7377;
+    color: #14ffec;
+    align-items: center;
+    font-size: 17px;
+    background-color: #323232;
+}
+
+/* btn in nav bar*/
+.btn-nav-custom{
+    background-color: #212529;
+    font-size: 20px;
+}
+
+/*icon in nav bar*/
+.icon-nav{
+    font-size: 19px;
+}
+
+/* for hiiden field*/
+.hidden-field{
+    display: none;
+}
+/* to show hidden fields*/
+.hidden-field-show{
+    
+}
+
+/* custom btn in card*/
+.cust-btn-card{
+    color: white;
+    background-color:#212121; 
+    font-weight: 500;
+    border: 3px solid white; 
+}
+
+.cust-btn-card:hover{
+    color: black;
+    font-weight: 500;
+    background-color: white;
+    border: 3px solid white;
+}
+
+.test{
+    background-color: black;
+}
+/* to make  a filed hidden*/
+.hidden-field{
+    display: none;
+}
+
+body{
+    background-color: #212121;
+}

@@ -1,0 +1,86 @@
+.icons{
+    font-size: 25px;
+    color: black;
+    margin-right:10px;
+}
+/* lable of input box*/
+.font-label{
+    color:#14ffec;
+    font-size: 20px;
+    font:Impact;
+    vertical-align: middle;
+    margin-left: 10px;
+    
+}
+/* for upload file*/
+.font-span{
+    color:#14ffec;
+    background-color:#323232;
+    border-color: #323232;
+}
+/* for select input*/
+.label-font{
+    color:#14ffec;
+    background-color:#323232;
+    border-color: #323232; 
+}
+/* input file */
+.input-file{
+    color: black;
+    border-width:1px;
+    background-color:#323232;
+    border-color: #0d7377;
+}
+
+.label-file{
+    color: white;
+    border-width:1px;
+    background-color:#323232;
+    border-color: #0d7377;  
+    
+}
+/* for input box*/
+.input-box{
+    color: white;
+    border-width:1px;
+    background-color:#323232;
+    border-color: #0d7377;
+}
+
+.input-select{
+    background-color: #323232;
+    border-color:#0d7377; 
+    color: white;
+}
+
+.input-select:focus{
+    background-color:white;
+    border-color:#0d7377; 
+    color: black;
+}
+
+.input-file{
+    background-color: yellow;
+}
+
+.input-box:focus{
+    outline: none;
+    background-color: #F5F5F5;
+    color: black;
+}
+
+.hidde-field{
+    display: none;
+}
+
+.border{
+    border:1px solid red; 
+}
+
+body{
+    background-color: #212121;
+}
+
+.center-vertically{
+    padding-top:38px;
+}

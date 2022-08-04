@@ -1,0 +1,64 @@
+.icons{
+    font-size: 25px;
+    color: black;
+    margin-right:10px;
+}
+
+.font-label{
+    color:#006899;
+    font-size: 20px;
+    font:Impact;
+    vertical-align: middle;
+    margin-left: 10px;
+    
+}
+/* for upload file*/
+.font-span{
+    color:#14ffec;
+    background-color:#323232;
+    border-color: #323232;
+}
+/* for select input*/
+.label-font{
+    color:#14ffec;
+    background-color:#323232;
+    border-color: #323232; 
+}
+
+.input-file{
+    color: black;
+    border-width:1px;
+    background-color:#323232;
+    border-color: #0d7377;
+}
+
+.label-file{
+    color: white;
+    border-width:1px;
+    background-color:#323232;
+    border-color: #0d7377;  
+    
+}
+
+/* for input box*/
+.input-box{
+    color: white;
+    border-width:1px;
+    background-color:#323232;
+    border-color: #0d7377;
+}
+
+
+/* to make  a filed hidden*/
+.hidden-field{
+    display: none;
+}
+
+
+.border1{
+  /*  border: 1px red solid;*/
+}
+
+body{
+    background-color: #212121;
+}
